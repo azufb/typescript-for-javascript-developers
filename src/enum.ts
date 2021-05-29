@@ -12,7 +12,7 @@ enum Months {
   September,
   October,
   November,
-  December
+  December,
 }
 
 // enum型に値を入れると、その値に自動的に番号が振られる。配列のインデックス番号のようなもの。
